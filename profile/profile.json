@@ -1,0 +1,83 @@
+{
+    "personal": {
+        "title": "Creative | Technologist | Developer",
+        "currentRole": "Full Stack Developer",
+        "displayEmail": "hi@itsvivek.me",
+        "dob": "Mon, 08 Mar 1999 05:20:00 GMT",
+        "hobbies": [
+            "playing music",
+            "sketching",
+            "traveling",
+            "photography"
+        ],
+        "languages": [
+            "english",
+            "hindi"
+        ]
+    },
+    "socialHandles": [
+        {
+            "platform": "github",
+            "handle": "intVivek",
+            "url": "https://github.com"
+        },
+        {
+            "platform": "linkedin",
+            "handle": "intvivek",
+            "url": "https://www.linkedin.com/in"
+        },
+        {
+            "platform": "instagram",
+            "handle": "_vivek__here",
+            "url": "https://www.instagram.com"
+        },
+        {
+            "platform": "facebook",
+            "handle": "intVivek",
+            "url": "https://www.facebook.com"
+        },
+        {
+            "platform": "twitter",
+            "handle": "intVivek",
+            "url": "https://twitter.com"
+        }
+    ],
+    "academics": [
+        {
+            "id": "tG0uEJpT_bjBZ9o226RQI",
+            "school": "Indian Institute of Information Technology, Guwahati",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Communication Engineering",
+            "fromDate": "Thu, 01 Aug 2019 00:00:00 GMT",
+            "toDate": "Mon, 01 Jul 2023 00:00:00 GMT",
+            "location": "Guwahati, Assam, India",
+            "url": "https://www.iiitg.ac.in/",
+            "picture": "ZfNHXfu1tDNpwN1_qJYJSS.jpg"
+        },
+        {
+            "id": "nC1blw2cHBv7nGKYsTjiX",
+            "school": "Sunbeam School, Bhagwanpur",
+            "degree": "CBSE",
+            "fromDate": "Fri, 01 Apr 2016 00:00:00 GMT",
+            "toDate": "Sun, 01 Apr 2018 00:00:00 GMT",
+            "location": "Varanasi, Uttar Pradesh, India",
+            "url": "http://www.sunbeamschools.com/school/bhagwanpur",
+            "picture": "ZolPVmIVK5s9ubPN0uMCW5.jpg"
+        }
+    ],
+    "experience": [
+        {
+            "id": "6XK_FGDPsku3-H2F-pFCU",
+            "companyName": "Rocket Chat",
+            "roleName": "Software Engineer",
+            "roleType": "Google Summer of code",
+            "fromDate": "Fri, 20 May 2022 18:30:00 GMT",
+            "toDate": "Mon, 19 Sep 2022 18:30:00 GMT",
+            "location": "Remote",
+            "url": "https://summerofcode.withgoogle.com/programs/2022/projects/YwGArhRg",
+            "picture": "ZQz5iEBDdx8KFtpSKPYwqg.jpg",
+            "description": ""
+        }
+    ],
+    "updatedAt": "Wed, 23 Feb 2022 20:09:49 GMT"
+}
