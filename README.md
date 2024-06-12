@@ -15,7 +15,7 @@
 # 🌐&nbsp; Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/intVivek)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_vivek__here)
-[![NPX RITIK](https://img.shields.io/badge/npx_ritik-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vivek)
+[![NPX RITIK](https://img.shields.io/badge/npx_vivek-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vivek)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/intVivek)
 
 # 💻&nbsp; Favorite Tech
