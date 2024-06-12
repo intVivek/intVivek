@@ -32,7 +32,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular.js](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue_js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express_js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -61,14 +60,14 @@
 # 📊 Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itzzritik&theme=dark&show_icons=true&rank_icon=github&card_width=440" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itzzritik&theme=light&show_icons=true&rank_icon=github&card_width=440" />
-    <img alt="Github Streaks" src="https://github-readme-stats.vercel.app/api?username=itzzritik&theme=light&show_icons=true&rank_icon=github&card_width=440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intVivek&theme=dark&show_icons=true&rank_icon=github&card_width=440" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intVivek&theme=light&show_icons=true&rank_icon=github&card_width=440" />
+    <img alt="Github Streaks" src="https://github-readme-stats.vercel.app/api?username=intVivek&theme=light&show_icons=true&rank_icon=github&card_width=440" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=itzzritik&theme=dark&hide_border=false&card_width=400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=itzzritik&theme=light&hide_border=false&card_width=400" />
-    <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzritik&theme=light&hide_border=false&card_width=400" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=intVivek&theme=dark&hide_border=false&card_width=400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=intVivek&theme=light&hide_border=false&card_width=400" />
+    <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=intVivek&theme=light&hide_border=false&card_width=400" />
   </picture>
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzritik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut" />
