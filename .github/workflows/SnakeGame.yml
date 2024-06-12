@@ -22,12 +22,12 @@ jobs:
       - name: Generate SnakeGame.svg File 🐍
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: intVivek
           outputs: |
             profile/assets/SnakeGame.svg
             profile/assets/SnakeGameDark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
 
       - name: Setting up SSH key 🔑
         run: |
