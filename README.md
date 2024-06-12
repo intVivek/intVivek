@@ -13,12 +13,10 @@
 - 📅&nbsp; Up for a huddle? Schedule a **[Meeting]**
 
 # 🌐&nbsp; Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/itzzritik)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itzz_ritik)
-[![NPX RITIK](https://img.shields.io/badge/npx_ritik-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ritik)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/itzzritik)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/itzzritik) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/4659503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/intVivek)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_vivek__here)
+[![NPX RITIK](https://img.shields.io/badge/npx_ritik-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vivek)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/intVivek)
 
 # 💻&nbsp; Favorite Tech
 ### Languages
