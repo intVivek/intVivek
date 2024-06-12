@@ -75,7 +75,7 @@
   </picture> -->
 </p>
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/intVivek/intVivek/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- links definition -->
