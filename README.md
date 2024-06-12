@@ -89,9 +89,9 @@
 
 <!-- links definition -->
 
-[AdeptMind]: https://github.com/AdeptMind "AdeptMind Github Page"
-[LinkedIn]: https://www.linkedin.com/in/itzzritik "Ritik's LinkedIn"
-[Portfolio]: https://ritik.me "Ritik's Portfolio"
-[Resume]: https://ritik.me/cv "Checkout Ritik's Resume"
-[Meeting]: https://calendly.com/itzzritik/hello "Schedule a meeting"
+[AdeptMind]: https://goglocal.live "Goglocal Website"
+[LinkedIn]: https://www.linkedin.com/in/intVivek "Vivek's LinkedIn"
+[Portfolio]: https://itsvivek.me "Vivek's Portfolio"
+[Resume]: https://resume.itsvivek.me "Checkout Vivek's Resume"
+[Meeting]: https://calendly.com/itsVivek/hello "Schedule a meeting"
 
