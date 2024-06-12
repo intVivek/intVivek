@@ -15,7 +15,7 @@
 # 🌐&nbsp; Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/intVivek)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_vivek__here)
-[![NPX RITIK](https://img.shields.io/badge/npx_vivek-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vivek)
+[![NPX VIVEK](https://img.shields.io/badge/npx_vivek-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vivek)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/intVivek)
 
 # 💻&nbsp; Favorite Tech
@@ -68,11 +68,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=intVivek&theme=light&hide_border=false&card_width=400" />
     <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=intVivek&theme=light&hide_border=false&card_width=400" />
   </picture>
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzritik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzritik&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=donut" />
-    <img alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzritik&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=donut" />
-  </picture> -->
 </p>
 
 <p align="center">
