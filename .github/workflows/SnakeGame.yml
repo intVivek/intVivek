@@ -1,0 +1,53 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */23 * * *" 
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #   - main
+    
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout to 'main' Branch ✔️
+        uses: actions/checkout@v3.5.3
+
+      - name: Generate SnakeGame.svg File 🐍
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/assets/SnakeGame.svg
+            profile/assets/SnakeGameDark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+
+      - name: Setting up SSH key 🔑
+        run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.JARVIS_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+      
+      - name: Configure git with SSH key and author 🛠️
+        run: |
+          git config --global gpg.format ssh
+          git config --global user.signingkey ~/.ssh/id_rsa
+          git config --global commit.gpgsign true
+          git config --global user.email "viveksrivastava6180@gmail.com"
+          git config --global user.name "Vivek"
+
+      - name: Sign Commit and Push Changes 🎉
+        run: |
+          set +e
+          git add .
+          git commit -m "🐍 SnakeGame Auto Generated"
+          set -e
+          git push
