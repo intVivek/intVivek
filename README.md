@@ -7,7 +7,7 @@
 <br>
 
 # 💫&nbsp; About Me
-- 🚀&nbsp; Fullstack Developer at **[Trupeer]**
+- 🚀&nbsp; Fullstack Developer at **[Trupeer AI]**
 - 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
 - 💻&nbsp; Checkout my cli portfolio, Run `npx vivek` in your terminal
 - 📅&nbsp; Up for a huddle? Schedule a **[Meeting]**
@@ -79,7 +79,7 @@
 
 <!-- links definition -->
 
-[Goglocal]: https://goglocal.live "Goglocal Website"
+[Trupeer AI]: https://trupeer.ai "Trupeer Website"
 [LinkedIn]: https://www.linkedin.com/in/intVivek "Vivek's LinkedIn"
 [Portfolio]: https://itsvivek.me "Vivek's Portfolio"
 [Resume]: https://resume.itsvivek.me "Checkout Vivek's Resume"
