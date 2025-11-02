@@ -7,7 +7,7 @@
 <br>
 
 # 💫&nbsp; About Me
-- 🚀&nbsp; Fullstack Developer at **[Goglocal]**
+- 🚀&nbsp; Fullstack Developer at **[Trupeer]**
 - 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
 - 💻&nbsp; Checkout my cli portfolio, Run `npx vivek` in your terminal
 - 📅&nbsp; Up for a huddle? Schedule a **[Meeting]**
