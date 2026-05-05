@@ -9,7 +9,7 @@
 # 💫&nbsp; About Me
 - 🚀&nbsp; Founding Engineer at **[Trupeer AI]**
 - 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
-- 💻&nbsp; Checkout my cli portfolio, Run `npx vivek` in your terminal
+- 💻&nbsp; Checkout my cli portfolio, Run `npx itsvivek` in your terminal
 - 📅&nbsp; Up for a huddle? Schedule a **[Meeting]**
 
 # 🌐&nbsp; Socials
